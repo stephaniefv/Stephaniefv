@@ -10,11 +10,10 @@
 
 ## Estou aprendendo
 
-<link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" widht="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
           
 
-  
-            
+           
 ## Contatos:
 
 <div>
@@ -23,7 +22,7 @@
 <a href="https://www.linkedin.com/in/stephanie-ferreira1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?stephaniefv=stephaniefv)](https://github.com/stephaniefv/github-readme-stats)
+
   
   
           
