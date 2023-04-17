@@ -2,7 +2,7 @@
 
 Eu sou a Stephanie Ferreira vale, Tenho 28 anos moro na cidade do Rio de Janeiro 😄 
  
-Sou Estudante de TI no SENAC-RJ e Especilizando em Ánalise de Dados no RESILIA-RJ.
+Sou Estudante de TI no SENAC-RJ e Especializando em Análise de Dados no RESILIA-RJ.
 
 Meu foco atualmente esta em Fullstack e quem sabe também ser uma analista de dados. Não possuo expêriencia, mas sou uma pessoa esforçada. E sempre estou em constante aprendizado. 
 
