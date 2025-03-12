@@ -1,10 +1,11 @@
 ## 👩 Hi!
  
-Sou Estudante de TI no SENAC e Especializando em Análise de Dados.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Meu foco atualmente esta em Fullstack e quem sabe também ser uma analista de dados. Não possuo expêriencia, mas sou uma pessoa esforçada. E sempre estou em constante aprendizado. 
-
-Minha paixão é tecnologia 👩🏻‍💻💻 
+<p align="left"> 
+ Sou estudante de graduação em Gestão de Tecnologia da Informação (TI), com foco em me especializar em Segurança Cibernética. Ao longo da minha formação, adquiri conhecimentos em diversas áreas da TI.<strong>Técnico de informática, Análise de dados, CloudComputing, CyberSecurity</strong>.<br>
+  Estou em constante aprendizado, Tecnologia é minha paixão. Querendo muito uma oportunidade. 
+</p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephaniefv&show_icons=true&theme=tokyonight"/>
@@ -12,11 +13,14 @@ Minha paixão é tecnologia 👩🏻‍💻💻
 </div>
 
 ### ❤️ Meus Contatos:
+  <a href="stephanievale94@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/stephaniefv/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="021972917740" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+ 
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephaniefv/)
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/settings/profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephaniefv/)
 
 ### 🛠️ As Tecnologias que estou aprendendo:
 
@@ -32,11 +36,7 @@ Minha paixão é tecnologia 👩🏻‍💻💻
 <img align="center" alt="stephanie-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
           
  
-          
-
-
-
-
+         
 </div>
   
           
