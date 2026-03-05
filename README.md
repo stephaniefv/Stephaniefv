@@ -11,7 +11,7 @@ Sou graduanda em Gestão de TI com foco em Segurança da Informação. Meu objet
 
 ---
 
-### 🛠️ No que estou trabalhando hoje:
+### 🛠️ Projetos e estudos atuais:
 - 💻 Configuração de ambientes seguros (Hardening) em Linux e Windows Server.
 - 🐍 Automação de tarefas de infraestrutura com Python e Bash.
 - 🌐 Monitoramento de tráfego de rede e análise de vulnerabilidades.
