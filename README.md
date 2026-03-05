@@ -1,10 +1,33 @@
-## 👩 Hi!
+## 👩 Olá, Sejam Bem-vindos!
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Sou estudante de graduação em Gestão de Tecnologia da Informação (TI), com foco em me especializar em Segurança Cibernética. Ao longo da minha formação, adquiri conhecimentos em diversas áreas da TI.<strong>Técnico de informática, Análise de dados, CloudComputing, CyberSecurity</strong>.<br>
-  Estou em constante aprendizado, Tecnologia é minha paixão. Querendo muito uma oportunidade. 
+
+
+### 🛡️ Aspirante a Analista de Cibersegurança | Infraestrutura | Suporte N2
+
+Sou graduanda em Gestão de TI com foco em Segurança da Informação. Meu objetivo é garantir a integridade e disponibilidade de ambientes computacionais através de automação e boas práticas de defesa.
+
+---
+
+### 🛠️ No que estou trabalhando hoje:
+- 💻 Configuração de ambientes seguros (Hardening) em Linux e Windows Server.
+- 🐍 Automação de tarefas de infraestrutura com Python e Bash.
+- 🌐 Monitoramento de tráfego de rede e análise de vulnerabilidades.
+
+---
+
+### 🚀 Tecnologias e Ferramentas:
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+
 </p>
 
 <div>
@@ -23,24 +46,5 @@
  
 
 
-### 🛠️ As Tecnologias que estou aprendendo:
 
-<div>
- 
-<img align="center" alt="stephanie-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />         
-<img align="center" alt="stephanie-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="stephanie-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="stephanie-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg"/>
-<img align="center" alt="stephanie-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="stephanie-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-<img align="center" alt="stephanie-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="center" alt="stephanie-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-          
- 
-         
-</div>
-  
-          
-          
-          
           
